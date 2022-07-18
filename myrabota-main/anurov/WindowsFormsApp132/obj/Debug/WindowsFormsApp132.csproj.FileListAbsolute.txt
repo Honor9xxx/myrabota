@@ -1,0 +1,25 @@
+C:\Users\student\Documents\anurov\WindowsFormsApp132\bin\Debug\WindowsFormsApp132.exe.config
+C:\Users\student\Documents\anurov\WindowsFormsApp132\bin\Debug\WindowsFormsApp132.exe
+C:\Users\student\Documents\anurov\WindowsFormsApp132\bin\Debug\WindowsFormsApp132.pdb
+C:\Users\student\Documents\anurov\WindowsFormsApp132\obj\Debug\WindowsFormsApp132.csproj.AssemblyReference.cache
+C:\Users\student\Documents\anurov\WindowsFormsApp132\obj\Debug\WindowsFormsApp132.Form1.resources
+C:\Users\student\Documents\anurov\WindowsFormsApp132\obj\Debug\WindowsFormsApp132.Form2.resources
+C:\Users\student\Documents\anurov\WindowsFormsApp132\obj\Debug\WindowsFormsApp132.Properties.Resources.resources
+C:\Users\student\Documents\anurov\WindowsFormsApp132\obj\Debug\WindowsFormsApp132.csproj.GenerateResource.cache
+C:\Users\student\Documents\anurov\WindowsFormsApp132\obj\Debug\WindowsFormsApp132.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\anurov\WindowsFormsApp132\obj\Debug\WindowsFormsApp132.exe
+C:\Users\student\Documents\anurov\WindowsFormsApp132\obj\Debug\WindowsFormsApp132.pdb
+C:\Users\student\Documents\anurov\WindowsFormsApp132\obj\Debug\WindowsFormsApp132.Form3.resources
+C:\Users\student\Downloads\myrabota-main (1)\myrabota-main\anurov\WindowsFormsApp132\bin\Debug\WindowsFormsApp132.exe.config
+C:\Users\student\Downloads\myrabota-main (1)\myrabota-main\anurov\WindowsFormsApp132\bin\Debug\WindowsFormsApp132.exe
+C:\Users\student\Downloads\myrabota-main (1)\myrabota-main\anurov\WindowsFormsApp132\bin\Debug\WindowsFormsApp132.pdb
+C:\Users\student\Downloads\myrabota-main (1)\myrabota-main\anurov\WindowsFormsApp132\obj\Debug\WindowsFormsApp132.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\myrabota-main (1)\myrabota-main\anurov\WindowsFormsApp132\obj\Debug\WindowsFormsApp132.Form1.resources
+C:\Users\student\Downloads\myrabota-main (1)\myrabota-main\anurov\WindowsFormsApp132\obj\Debug\WindowsFormsApp132.Form2.resources
+C:\Users\student\Downloads\myrabota-main (1)\myrabota-main\anurov\WindowsFormsApp132\obj\Debug\WindowsFormsApp132.Form3.resources
+C:\Users\student\Downloads\myrabota-main (1)\myrabota-main\anurov\WindowsFormsApp132\obj\Debug\WindowsFormsApp132.Form4.resources
+C:\Users\student\Downloads\myrabota-main (1)\myrabota-main\anurov\WindowsFormsApp132\obj\Debug\WindowsFormsApp132.Properties.Resources.resources
+C:\Users\student\Downloads\myrabota-main (1)\myrabota-main\anurov\WindowsFormsApp132\obj\Debug\WindowsFormsApp132.csproj.GenerateResource.cache
+C:\Users\student\Downloads\myrabota-main (1)\myrabota-main\anurov\WindowsFormsApp132\obj\Debug\WindowsFormsApp132.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\myrabota-main (1)\myrabota-main\anurov\WindowsFormsApp132\obj\Debug\WindowsFormsApp132.exe
+C:\Users\student\Downloads\myrabota-main (1)\myrabota-main\anurov\WindowsFormsApp132\obj\Debug\WindowsFormsApp132.pdb
