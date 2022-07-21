@@ -1,66 +1,66 @@
 body,html {
-  height: 100%;
-  margin: -10 -10 -10 -10;
+ height: 100%;
+ margin: -10 -10 -10 -10;
 }
 
 .background{
-  background-size: cover;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-position: center center;
+ background-size: cover;
+ background-attachment: fixed;
+ background-repeat: no-repeat;
+ background-position: center center;
 }
 
 .background.v1{
-  margin-top: -20%;
-  min-height: 125%;
-  background-size: 100%;
-  background-image: url(https://cdn1.epicgames.com/offer/fn/21BR_KeyArt_EGS_Launcher_Blade_2560x1440_2560x1440-5335449297e75a6cc7c72ad01609b8e1);
+ margin-top: -20%;
+ min-height: 125%;
+ background-size: 100%;
+ background-image: url(https://kartinkin.net/uploads/posts/2021-07/1626964315_26-kartinkin-com-p-teksturi-dlya-mainkraft-pikselnie-krasivo-27.jpg);
 }
  .background.v2{
-  min-height: 125%;
-  background-size: 100%;
-  background-image: url(https://cdn2.unrealengine.com/20br-keyart-alt-branded-3840x2160-5f4bfe3f7c37.jpg);
+ min-height: 125%;
+ background-size: 100%;
+ background-image: url(https://media.moddb.com/images/games/1/70/69513/roguelike_forest_test_big.png);
 }
 .background.v3{
-  min-height: 125%;
-  background-size: 100%;
-  background-image: url(https://cdn2.unrealengine.com/key-art-1920x1080-3251a6ec218c.jpg);
+ min-height: 125%;
+ background-size: 100%;
+ background-image: url(https://phonoteka.org/uploads/posts/2021-05/1620943797_26-phonoteka_org-p-piksel-art-fon-les-31.png);
 }
 .discription{
-  text-align: center;
-  font-size: 100pt;
-  color: white;
-  font-family: Verdans;
-  padding-top: 15%;
+ text-align: center;
+ font-size: 100pt;
+ color: white;
+ font-family: rubik;
+ padding-top: 33%;
 }
 
 .aboutGame{
-  text-align: center;
-  font-size: 25pt;
-  color: white;
-  font-family: rubik;
-  padding-top: 15%;
+ text-align: center;
+ font-size: 25pt;
+ color: white;
+ font-family: rubik;
+ padding-top: 15%;
 }
 .author{
-  widh: 50%;
-  float: left;
+ widh: 50%;
+ float: left;
 }
 .photo{
-  widh: 50%;
-  float: left;
+ widh: 50%;
+ float: left;
 }
 .aboutAuthor{
  text-align: center;
-  font-size: 100pt;
-  color: white;
-  font-family: rubik;
-  padding-top: 150%;
-  margin-left: 65%;
+ font-size: 100pt;
+ color: white;
+ font-family: rubik;
+ padding-top: 155%;
+ margin-left: 140%;
 }
 
 #photoAuthor{
-  widh: 200px;
-  height: 400px;
-  margin-left: 25%;
-  margin-top: 300px;
+ widh: 200px;
+ height: 400px;
+ margin-left: 25%;
+ margin-top: 300px;
 }
