@@ -1,0 +1,38 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class moveslug : MonoBehaviour
+{
+    public float mMovementSpeed = 3.0f;
+    public bool bIsGoingRight = true;
+    public float mRaycastingDistance = 1f;
+
+    SpriteRenderer _mSpriteRenderer;
+    void Start()
+    {
+        _mSpriteRenderer = gameObject.GetComponent<SpriteRenderer>();
+        _mSpriteRenderer.flipX = bIsGoingRight;
+    }
+    void Update()
+    {
+        Vector3 dicretionTranslation = (bIsGoingRight) ? transform.right : -transform.right;
+        dicretionTranslation *= Time.deltaTime * mMovementSpeed;
+        transform.Translate(dicretionTranslation);
+        CheckForWalls();
+    }
+    void CheckForWalls()
+    {
+        Vector3 raycastDiretion = (bIsGoingRight) ? Vector3.right : Vector3.left;
+        RaycastHit2D hit = Physics2D.Raycast(transform.position + raycastDiretion * mRaycastingDistance
+            - new Vector3(0f, 0.25f, 0f), raycastDiretion, 0.075f);
+        if(hit.collider != null)
+        {
+            if (hit.transform.tag == "terrain")
+            {
+                bIsGoingRight = !bIsGoingRight;
+                _mSpriteRenderer.flipX = bIsGoingRight;
+            }
+        }
+    }
+}
