@@ -1,0 +1,28 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+
+public class health : MonoBehaviour
+{
+    public static int Health = 100;
+    public Text texthealth;
+    void Start()
+    {
+        texthealth.text = Health.ToString();
+    }
+
+    
+    void Update()
+    {
+        //if (Input.GetKeyDown(KeyCode.E))
+        //{
+        //    health = health - 50000;
+            texthealth.text = Health.ToString();
+        
+    }
+    public static void DamageHealth(int damage)
+    {
+        Health -= damage;
+    }
+}
