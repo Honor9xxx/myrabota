@@ -9,19 +9,19 @@
     
   <body>
     <div class="background v1">
-      <p class="discription">Parkour project</p>
+      <p class="discription"><b>Parkour Project</b></p>
       </div>
       
       <div class="background v2">
       
-        <p class="aboutGame"><strong> Это увлекательная игра под названием ... от Parckour Game,<br> в данной игре вас ждёт интерсный паркур в лесу.<br> В этой игре вам предстоит убить всех врагов и дойти до конца леса,<br> что бы спасти лес от нечести.</strong></p>
+        <p class="aboutGame"><b> Это увлекательная игра под названием Parckour game от TailZerO,<br> в данной игре вас ждёт интерсный паркур в лесу.<br> В этой игре вам предстоит убить всех врагов и дойти до конца леса,<br> что бы спасти лес от нечести.</b></p>
         
       </div>
       
       <div class="background v3">
       
         <div class="photo">
-          <img id="photoAuthor" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Epic_Games_logo.svg/172px-Epic_Games_logo.svg.png">
+          <img id="photoAuthor" src="https://i.ibb.co/cvskDwb/logo.jpg">
           </div>
         
         <div class="author">
